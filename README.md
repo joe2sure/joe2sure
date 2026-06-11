@@ -7,8 +7,8 @@ www.trackstock.co.uk
 
 
 ## 🌐 Other International clients:
-https://substack.com/
-https://churchonthemove.com/seeds
+https://substack.com/<br>
+https://churchonthemove.com/seeds<br>
 
 ## 🌐 UK International clients:
 www.spacinfotech.co.uk<br>
@@ -21,8 +21,8 @@ www.ssgo.co.uk<br>
 
 ## 🌐 US International clients:
 https://autonome.us/<br>
-https://www.band.us/about/global/intro
-https://nautil.us/
+https://www.band.us/about/global/intro<br>
+https://nautil.us/<br>
 https://welcome.us<br>
 https://between.us/<br>
 https://www.fightforthefuture.org/<br>
